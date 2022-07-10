@@ -7,7 +7,7 @@
 * [Data Sources](#Data-Sources)
 * [Data Warehouse/Data Model](#Data-Model)
 * [Business Queries](#Business-Queries)
-* [Dashboards](#PowerBI-Dashboard)
+* [Dashboards](#Dashboard)
 * [Conclusion](#Conclusion)
 
 ## General Info
@@ -80,3 +80,29 @@ Here's Snapshoot of our Sql Query from SSMS.
 ![Fifth Business query](https://github.com/Hossamsaad99/Stock-Market-Analysis/blob/main/Modeling/Business%20Queries/5.JPG)
 
  
+ ## Dashboards
+> * S&P 500 
+Average Volume  - 10 Days top & Worst Close Change  - Performance  - volatility KPIs per secotr <br />
+Here's Snapshoot of our first dashboard from PowerBI.
+![First dashboard](https://github.com/Hossamsaad99/Stock-Market-Analysis/blob/main/Dashboard/D1.JPG)
+
+> * Company Monitoring 
+Average Volume  - Historic Data  - Performance  - General Info - Filtration Page <br />
+Here's Snapshoot of our first dashboard from PowerBI.
+![Second dashboard](https://github.com/Hossamsaad99/Stock-Market-Analysis/blob/main/Dashboard/D2.JPG)
+
+> * Comparison 
+Average price per month  - Top 10 loss / gain close change per company  - Company Close price per date <br />
+Here's Snapshoot of our first dashboard from PowerBI.
+![Third dashboard](https://github.com/Hossamsaad99/Stock-Market-Analysis/blob/main/Dashboard/D3.JPG)
+
+> * Tesla Report 
+Close price and volume per date  - Stock Performance KPIs  - Tesla Stock Surges - Tesla After Twitter <br />
+Here's Snapshoot of our first dashboard from PowerBI. <br />
+![Tesla dashboard](https://github.com/Hossamsaad99/Stock-Market-Analysis/blob/main/Dashboard/Tesla.JPG)
+
+## Conclusion
+> * Successfully visualized records from 5 years.
+> * Enable Individual Company monitoring.
+> * Enable Comparison of companies with ease of filtering.
+> * Tesla example: Report Created.
