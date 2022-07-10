@@ -11,10 +11,10 @@
 * [Conclusion](#Conclusion)
 
 ## General Info
-This project aim to apply the theories, methodologies and strategies tackled in the training to successfully implement a data warehouse to support business intelligence queries
+This project aims to apply the theories, methodologies and strategies tackled in the training to successfully implement a data warehouse to support business intelligence queries
 
 ## Introduction
-About Projects Info
+About Project Info
 * S&P 500 index tracks the stock performance of 500 large companies listed on exchanges in the United States
 * 36.7 trillion USD
 * free-float weighted
@@ -29,7 +29,7 @@ About Projects Info
 * [Wikipedia List of S&P 500 companies](https://en.wikipedia.org/wiki/List_of_S%26P_500_companies) <br />
 > * <ins>Date of creation</ins>: 4 April 2022 <br />
 > * <ins>Descriptions</ins>: <br />
-The S&P 500 stock market index is maintained by S&P Dow Jones Indices. It comprises 503 common stocks which are issued by 500 large-cap companies traded on American stock exchanges (including the 30 companies that compose the Dow Jones Industrial Average). The index includes about 80 percent of the American equity market by capitalization. It is weighted by free-float market capitalization, so more valuable companies account for relatively more weight in the index. The index constituents and the constituent weights are updated regularly using rules published by S&P Dow Jones Indices. Although called the S&P 500, the index contains 503 stocks because it includes two share classes of stock from 3 of its component companies.<br />
+The S&P 500 stock market index is maintained by S&P Dow Jones Indices. It comprises 503 common stocks which are issued by 500 large-cap companies traded on American stock exchanges (including the 30 companies that compose the Dow Jones Industrial Average). The index includes about 80 percent of the American equity market by capitalization. It is weighted by free-float market capitalization, so more valuable companies account for relatively more weight in the index. The index constituents and the constituent weights are updated regularly using rules published by S&P Dow Jones Indices.<br />
 > * <ins>ETL</ins>: <br />
 web scraping using beautiful soup and request library with python, file type (CSV) <br />
 
@@ -38,9 +38,7 @@ web scraping using beautiful soup and request library with python, file type (CS
 > * <ins>Descriptions</ins>: <br />
 Yahoo Finance used to have their own official API, but this was decommissioned on May 15th 2017, following wide-spread misuse of data.
 These days a range of unofficial APIs and libraries exist to access the same data, including of course yfinance.
-Note you might know of yfinance under it’s old name- fix-yahoo-finance, since it was re-named on May 26th 2019 at the same time that it went over a large overhaul to fix some usability issues.
-To ensure backwards compatibility, fix-yahoo-finance now imports and uses yfinance anyway, but Ran Aroussi still recommends to install and use yfinance directly.
-In this article we will focus mainly on the yfinance library, but we discuss the overall range of options and other alternative providers in more depth in our parent article, Yahoo Finance API – A Complete Guide.<br />
+Note you might know of yfinance under it’s old name- fix-yahoo-finance, since it was re-named on May 26th 2019 at the same time that it went over a large overhaul to fix some usability issues.<br />
 > * <ins>ETL</ins>: <br />
 Extract data using web scraping then imported, integrated and transferred it using SSMS, then create the model. 
 
