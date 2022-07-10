@@ -4,7 +4,7 @@
 * [General info](#general-info)
 * [Introduction](#Introduction)
 * [Business Requirememts](#Business-Requirememts)
-* [Data Collection](#Data-Collection)
+* [Data Sources](#Data-Sources)
 * [Data Warehouse/Data Model](#Data-Model)
 * [Business Queries](#Business-Queries)
 * [Dashboards](#PowerBI-Dashboard)
@@ -20,7 +20,10 @@ About Projects Info
 * free-float weighted
 * The index is one of the factors in the computation of the Conference Board Leading Economic Index, used to forecast the direction of the economy
 
-## Business Requirments
+## Business Requirememts
 * Reporting stock market daily statistics.
 * Reporting top and lowest performers.
 * Tracking stock market changes.
+
+## Data Sources
+> * Wikipedia List of S&P 500 companies
