@@ -84,7 +84,7 @@ Average Volume  - 10 Days top & Worst Close Change  - Performance  - volatility 
 Here's Snapshoot of our first dashboard from PowerBI.
 ![First dashboard](https://github.com/Hossamsaad99/Stock-Market-Analysis/blob/main/Dashboard/D1.JPG)
 
-> * Company Monitoring 
+> * Company Monitoring <br />
 Average Volume  - Historic Data  - Performance  - General Info - Filtration Page <br />
 Here's Snapshoot of our first dashboard from PowerBI.
 ![Second dashboard](https://github.com/Hossamsaad99/Stock-Market-Analysis/blob/main/Dashboard/D2.JPG)
