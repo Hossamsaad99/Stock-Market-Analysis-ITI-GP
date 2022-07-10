@@ -1,0 +1,243 @@
+country,city,state,Index
+United States,Santa Clara,CA,1
+United States,Fort Worth,TX,2
+United States,Raleigh,NC,3
+United States,Cupertino,CA,4
+United States,North Chicago,IL,5
+United States,Conshohocken,PA,6
+United States,Danvers,MA,7
+United States,San Jose,CA,9
+United States,Wilmington,MA,10
+United States,Chicago,IL,11
+United States,Roseland,NJ,12
+United States,San Rafael,CA,13
+United States,Saint Louis,MO,14
+United States,Columbus,OH,15
+United States,Arlington,VA,16
+United States,Columbus,GA,17
+United States,New York,NY,18
+United States,Rolling Meadows,IL,19
+United States,Cambridge,MA,20
+United States,Charlotte,NC,21
+United States,Tempe,AZ,22
+United States,Seattle,WA,23
+United States,Northbrook,IL,24
+United States,Berwyn,PA,26
+United States,Thousand Oaks,CA,27
+United States,Minneapolis,MN,28
+United States,Boston,MA,29
+United States,Canonsburg,PA,30
+United States,Milwaukee,WI,31
+United States,Houston,TX,32
+United States,Allentown,PA,33
+United States,Wallingford,CT,34
+United States,Pasadena,CA,35
+United States,Dallas,TX,36
+United States,Santa Monica,CA,37
+United States,Glendale,CA,38
+United States,Camden,NJ,39
+United States,Memphis,TN,40
+United States,Westminster,CO,41
+United States,Deerfield,IL,42
+United States,Richfield,MN,43
+United States,Franklin Lakes,NJ,44
+United States,San Mateo,CA,45
+United States,Hercules,CA,46
+United States,Norwalk,CT,47
+United States,Lake Success,NY,48
+United States,Daytona Beach,FL,49
+United States,Marlborough,MA,50
+United States,Auburn Hills,MI,51
+United States,Dublin,OH,52
+United States,Palm Beach Gardens,FL,53
+United States,Miami,FL,54
+United States,Vernon Hills,IL,55
+United States,Irving,TX,56
+United States,Baltimore,MD,57
+United States,Providence,RI,58
+United States,Ewing,NJ,59
+United States,Eden Prairie,MN,60
+United States,Stamford,CT,61
+United States,Bloomfield,CT,62
+United States,Fairfield,OH,63
+United States,Oakland,CA,64
+United States,Philadelphia,PA,65
+United States,Newport Beach,CA,66
+United States,Columbus,IN,67
+United States,Jackson,MI,68
+United States,McLean,VA,69
+United States,San Ramon,CA,70
+United States,Issaquah,WA,71
+United States,San Francisco,CA,72
+United States,Jacksonville,FL,73
+United States,Cincinnati,OH,74
+United States,Somerset,NJ,75
+United States,Teaneck,NJ,76
+United States,Indianapolis,IN,77
+United States,Fort Lauderdale,FL,78
+United States,Woonsocket,RI,79
+United States,Reno,NV,80
+United States,Richmond,VA,81
+United States,Atlanta,GA,82
+United States,Wilmington,DE,83
+United States,Moline,IL,84
+United States,Riverwoods,IL,85
+United States,Goodlettsville,TN,86
+United States,Secaucus,NJ,87
+United States,Arlington,TX,88
+United States,Washington,DC,89
+United States,Burbank,CA,90
+United States,Englewood,CO,91
+United States,Austin,TX,92
+United States,Chesapeake,VA,93
+United States,Downers Grove,IL,94
+United States,Midland,MI,95
+United States,Ann Arbor,MI,96
+United States,Orlando,FL,97
+United States,Detroit,MI,98
+United States,Denver,CO,99
+United States,Oklahoma City,OK,100
+United States,Tysons,VA,101
+United States,San Diego,CA,102
+United States,Redwood City,CA,103
+United States,Saint Paul,MN,104
+United States,Rosemead,CA,105
+United States,Kingsport,TN,106
+United States,Fremont,CA,107
+United States,Newtown,PA,108
+United States,Springfield,MA,109
+United States,New Orleans,LA,110
+United States,Brooklyn,NY,111
+United States,Kansas City,MO,112
+United States,Irvine,CA,113
+United States,Salt Lake City,UT,114
+United States,Dearborn,MI,115
+United States,Midland,TX,116
+United States,Winona,MN,117
+United States,Phoenix,AZ,118
+United States,Akron,OH,119
+United States,Brookfield,WI,120
+United States,North Bethesda,MD,121
+United States,Sunnyvale,CA,122
+United States,Everett,WA,123
+United States,Reston,VA,124
+United States,Foster City,CA,125
+United States,McKinney,TX,126
+United States,Corning,NY,127
+United States,Waukesha,WI,128
+United States,Mountain View,CA,129
+United States,Lake Forest,IL,131
+United States,Pawtucket,RI,132
+United States,Nashville,TN,133
+United States,Hartford,CT,134
+United States,Newport News,VA,135
+United States,Palo Alto,CA,136
+United States,Austin,MN,137
+United States,Melville,NY,138
+United States,Bethesda,MD,139
+United States,Hershey,PA,140
+United States,Louisville,KY,141
+United States,Pittsburgh,PA,142
+United States,Armonk,NY,143
+United States,Westbrook,ME,144
+United States,Durham,NC,145
+United States,Davidson,NC,146
+United States,Glenview,IL,147
+United States,Lowell,AR,148
+United States,Monett,MO,150
+United States,New Brunswick,NJ,151
+United States,Battle Creek,MI,152
+United States,Burlington,MA,153
+United States,Cleveland,OH,154
+United States,Santa Rosa,CA,155
+United States,Jericho,NY,156
+United States,Milpitas,CA,157
+United States,Burlington,NC,158
+United States,Melbourne,FL,159
+United States,Radnor,PA,161
+United States,Madison,WI,162
+United States,Mooresville,NC,163
+United States,Monroe,LA,164
+United States,Las Vegas,NV,165
+United States,Eagle,ID,166
+United States,Beverly Hills,CA,167
+United States,Purchase,NY,168
+United States,Germantown,TN,169
+United States,Livonia,MI,170
+United States,Chandler,AZ,171
+United States,Calhoun,GA,172
+United States,Hunt Valley,MD,173
+United States,Corona,CA,174
+United States,Long Beach,CA,175
+United States,Tampa,FL,176
+United States,Findlay,OH,177
+United States,Kirkland,WA,178
+United States,Kenilworth,NJ,179
+United States,Redmond,WA,180
+United States,Buffalo,NY,181
+United States,Boise,ID,182
+United States,Westlake,OH,183
+United States,Juno Beach,FL,184
+United States,Los Gatos,CA,185
+United States,Merrillville,IN,186
+United States,Beaverton,OR,187
+United States,Falls Church,VA,188
+United States,Thomasville,NC,190
+United States,Jersey City,NJ,191
+United States,Tulsa,OK,192
+United States,Springfield,MO,193
+United States,Farmington,CT,194
+United States,Rochester,NY,195
+United States,Bellevue,WA,196
+United States,Wyomissing,PA,197
+United States,Des Moines,IA,198
+United States,Mayfield,OH,199
+United States,Waltham,MA,200
+United States,Covington,LA,202
+United States,Newark,NJ,203
+United States,Greensboro,NC,204
+United States,Tarrytown,NY,206
+United States,Birmingham,AL,207
+United States,Menlo Park,CA,208
+United States,Saint Petersburg,FL,209
+United States,Sarasota,FL,210
+United States,Dublin,CA,211
+United States,Boca Raton,FL,212
+United States,Orrville,OH,214
+United States,Kenosha,WI,215
+United States,Victor,NY,216
+United States,New Britain,CT,217
+United States,Kalamazoo,MI,218
+United States,Golden,CO,219
+United States,North Reading,MA,220
+United States,Wayne,PA,221
+United States,Framingham,MA,222
+United States,Brentwood,TN,223
+United States,Springdale,AR,224
+United States,Plano,TX,226
+United States,Highlands Ranch,CO,227
+United States,King of Prussia,PA,228
+United States,Bolingbrook,IL,229
+United States,Minnetonka,MN,230
+United States,Omaha,NE,231
+United States,San Antonio,TX,232
+United States,Milford,MA,233
+United States,Toledo,OH,234
+United States,Benton Harbor,MI,235
+United States,Bentonville,AR,236
+United States,Greenwich,CT,237
+United States,Exton,PA,238
+United States,Rye Brook,NY,239
+United States,Warsaw,IN,240
+United States,Lincolnshire,IL,241
+United States,Parsippany,NJ,242
+Ireland,Dublin,,8
+Switzerland,Zurich,,25
+Switzerland,Schaffhausen,,130
+Ireland,Cork,,149
+United Kingdom,Woking,,160
+Netherlands,Eindhoven,,189
+United Kingdom,London,,201
+Bermuda,Hamilton,,205
+Israel,Herzliya,,213
+Ireland,Swords,,225

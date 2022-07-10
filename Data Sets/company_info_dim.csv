@@ -1,0 +1,504 @@
+Symbol,shortName,fullTimeEmployees,logo_url,company_sector_dim.Index,Index_Loc
+A,"Agilent Technologies, Inc.",17400,https://logo.clearbit.com/agilent.com,1,1
+AMD,"Advanced Micro Devices, Inc.",15500,https://logo.clearbit.com/amd.com,10,1
+AMAT,"Applied Materials, Inc.",28500,https://logo.clearbit.com/appliedmaterials.com,23,1
+ANET,"Arista Networks, Inc.",2993,https://logo.clearbit.com/arista.com,29,1
+INTC,Intel Corporation,122900,https://logo.clearbit.com/intel.com,10,1
+CRL,Charles River Laboratories Inte,18600,https://logo.clearbit.com/criver.com,1,10
+ADI,"Analog Devices, Inc.",24700,https://logo.clearbit.com/analog.com,10,10
+AAL,"American Airlines Group, Inc.",127000,https://logo.clearbit.com/aa.com,2,2
+AAP,Advance Auto Parts Inc.,41000,https://logo.clearbit.com/advanceautoparts.com,3,3
+ALK,"Alaska Air Group, Inc.",21582,https://logo.clearbit.com/alaskaair.com,2,23
+AMZN,"Amazon.com, Inc.",1622000,https://logo.clearbit.com/amazon.com,28,23
+EXPD,Expeditors International of Was,19070,https://logo.clearbit.com/expeditors.com,55,23
+EXPE,"Expedia Group, Inc.",14800,https://logo.clearbit.com/expediagroup.com,43,23
+FFIV,"F5, Inc.",6396,https://logo.clearbit.com/f5.com,9,23
+AAPL,Apple Inc.,154000,https://logo.clearbit.com/apple.com,4,4
+ABBV,AbbVie Inc.,50000,https://logo.clearbit.com/abbvie.com,5,5
+ABT,Abbott Laboratories,113000,https://logo.clearbit.com/abbott.com,7,5
+AZO,"AutoZone, Inc.",65100,https://logo.clearbit.com/autozone.com,3,40
+FDX,FedEx Corporation,384000,https://logo.clearbit.com/fedex.com,55,40
+IP,International Paper Company,38000,https://logo.clearbit.com/internationalpaper.com,24,40
+ABC,AmerisourceBergen Corporation,38000,https://logo.clearbit.com/amerisourcebergen.com,6,6
+BBWI,"Bath & Body Works, Inc.",8800,https://logo.clearbit.com/bbwinc.com,3,15
+AEP,American Electric Power Company,16688,https://logo.clearbit.com/aep.com,14,15
+HBAN,Huntington Bancshares Incorpora,19722,https://logo.clearbit.com/huntington.com,53,15
+ABMD,"ABIOMED, Inc.",2003,https://logo.clearbit.com/abiomed.com,7,7
+BBY,"Best Buy Co., Inc.",57750,https://logo.clearbit.com/investors.bestbuy.com,3,43
+ACN,Accenture plc,710000,https://logo.clearbit.com/accenture.com,8,8
+AON,Aon plc,50000,https://logo.clearbit.com/aon.com,19,8
+ALLE,Allegion plc,11000,https://logo.clearbit.com/allegion.com,22,8
+APTV,Aptiv PLC,155000,https://logo.clearbit.com/aptiv.com,32,8
+ETN,"Eaton Corporation, PLC",85947,https://logo.clearbit.com/eaton.com,25,8
+ADBE,Adobe Inc.,25988,https://logo.clearbit.com/adobe.com,9,9
+AVGO,Broadcom Inc.,20000,https://logo.clearbit.com/broadcom.com,10,9
+CDNS,"Cadence Design Systems, Inc.",9300,https://logo.clearbit.com/cadence.com,13,9
+CSCO,"Cisco Systems, Inc.",79500,https://logo.clearbit.com/cisco.com,61,9
+EBAY,eBay Inc.,10800,https://logo.clearbit.com/ebayinc.com,28,9
+AMGN,Amgen Inc.,24200,https://logo.clearbit.com/amgen.com,5,27
+ADM,Archer-Daniels-Midland Company,39218,https://logo.clearbit.com/adm.com,11,11
+BA,Boeing Company (The),142000,https://logo.clearbit.com/boeing.com,40,11
+CAG,"ConAgra Brands, Inc.",18600,https://logo.clearbit.com/conagrabrands.com,45,11
+CBOE,"Cboe Global Markets, Inc.",1196,https://logo.clearbit.com/cboe.com,48,11
+CME,CME Group Inc.,3480,https://logo.clearbit.com/cmegroup.com,48,11
+EQR,Equity Residential,2400,https://logo.clearbit.com/equityapartments.com,36,11
+EXC,Exelon Corporation,31518,https://logo.clearbit.com/exeloncorp.com,15,11
+BIIB,Biogen Inc.,9610,https://logo.clearbit.com/biogen.com,5,20
+AKAM,"Akamai Technologies, Inc.",9180,https://logo.clearbit.com/akamai.com,9,20
+ADP,"Automatic Data Processing, Inc.",56000,https://logo.clearbit.com/adp.com,12,12
+BMY,Bristol-Myers Squibb Company,32200,https://logo.clearbit.com/bms.com,5,18
+AIG,"American International Group, I",36600,https://logo.clearbit.com/aig.com,17,18
+AIZ,"Assurant, Inc.",15600,https://logo.clearbit.com/assurant.com,18,18
+BK,The Bank of New York Mellon Cor,49600,https://logo.clearbit.com/bnymellon.com,26,18
+BLK,"BlackRock, Inc.",18400,https://logo.clearbit.com/blackrock.com,26,18
+AXP,American Express Company,64000,https://logo.clearbit.com/americanexpress.com,39,18
+C,"Citigroup, Inc.",228000,https://logo.clearbit.com/citigroup.com,41,18
+CL,Colgate-Palmolive Company,33800,https://logo.clearbit.com/colgatepalmolive.com,54,18
+ED,"Consolidated Edison, Inc.",13871,https://logo.clearbit.com/conedison.com,14,18
+EL,"Estee Lauder Companies, Inc. (T",44640,https://logo.clearbit.com/elcompanies.com,54,18
+FOX,Fox Corporation,9000,https://logo.clearbit.com/foxcorporation.com,76,18
+FOXA,Fox Corporation,9000,https://logo.clearbit.com/foxcorporation.com,76,18
+GS,"Goldman Sachs Group, Inc. (The)",45100,https://logo.clearbit.com/goldmansachs.com,80,18
+HES,Hess Corporation,1545,https://logo.clearbit.com/hess.com,30,18
+IFF,International Flavors & Fragran,24000,https://logo.clearbit.com/iff.com,20,18
+IPG,"Interpublic Group of Companies,",55600,https://logo.clearbit.com/interpublic.com,88,18
+ADSK,"Autodesk, Inc.",12600,https://logo.clearbit.com/autodesk.com,13,13
+AEE,Ameren Corporation,9116,https://logo.clearbit.com/ameren.com,14,14
+CNC,Centene Corporation,72500,https://logo.clearbit.com/centene.com,57,14
+EMR,Emerson Electric Company,86700,https://logo.clearbit.com/emerson.com,25,14
+CAH,"Cardinal Health, Inc.",44000,https://logo.clearbit.com/cardinalhealth.com,6,52
+AES,The AES Corporation,8450,https://logo.clearbit.com/aes.com,15,16
+AVB,"AvalonBay Communities, Inc.",2839,https://logo.clearbit.com/avalonbay.com,36,16
+AFL,AFLAC Incorporated,12447,https://logo.clearbit.com/aflac.com,16,17
+ALGN,"Align Technology, Inc.",23625,https://logo.clearbit.com/aligntech.com,7,22
+BIO,"Bio-Rad Laboratories, Inc.",7900,https://logo.clearbit.com/bio-rad.com,7,46
+AJG,Arthur J. Gallagher & Co.,39876,https://logo.clearbit.com/ajg.com,19,19
+BSX,Boston Scientific Corporation,41000,https://logo.clearbit.com/bostonscientific.com,7,50
+HOLX,"Hologic, Inc.",6705,https://logo.clearbit.com/hologic.com,42,50
+ALB,Albemarle Corporation,6000,https://logo.clearbit.com/albemarle.com,20,21
+BAC,Bank of America Corporation,208000,https://logo.clearbit.com/bankofamerica.com,41,21
+DUK,Duke Energy Corporation (Holdin,27605,https://logo.clearbit.com/duke-energy.com,14,21
+HON,Honeywell International Inc.,99000,https://logo.clearbit.com/honeywell.com,84,21
+BR,"Broadridge Financial Solutions,",13704,https://logo.clearbit.com/broadridge.com,8,48
+CDW,CDW Corporation,13900,https://logo.clearbit.com/cdw.com,8,55
+ALL,Allstate Corporation (The),54300,https://logo.clearbit.com/allstate.com,21,24
+IEX,IDEX Corporation,7500,https://logo.clearbit.com/idexcorp.com,25,24
+CB,Chubb Limited,31000,https://logo.clearbit.com/chubb.com,21,25
+AMCR,Amcor plc,46000,https://logo.clearbit.com/amcor.com,24,25
+AME,"AMETEK, Inc.",18500,https://logo.clearbit.com/ametek.com,25,26
+CDAY,Ceridian HCM Holding Inc.,7462,https://logo.clearbit.com/ceridian.com,13,28
+AMP,"Ameriprise Financial, Inc.",12000,https://logo.clearbit.com/ameriprise.com,26,28
+GIS,"General Mills, Inc.",35000,https://logo.clearbit.com/generalmills.com,45,28
+AMT,American Tower Corporation (REI,6378,https://logo.clearbit.com/americantower.com,27,29
+BXP,"Boston Properties, Inc.",743,https://logo.clearbit.com/bostonproperties.com,33,29
+GE,General Electric Company,168000,https://logo.clearbit.com/ge.com,25,29
+ANSS,"ANSYS, Inc.",5100,https://logo.clearbit.com/ansys.com,13,30
+AOS,A.O. Smith Corporation,13700,https://logo.clearbit.com/aosmith.com,25,31
+CNP,"CenterPoint Energy, Inc (Holdin",9418,https://logo.clearbit.com/centerpointenergy.com,14,32
+CCI,Crown Castle International Corp,5000,https://logo.clearbit.com/crowncastle.com,27,32
+APA,APA Corporation,2253,https://logo.clearbit.com/apacorp.com,30,32
+COP,ConocoPhillips,9900,https://logo.clearbit.com/conocophillips.com,30,32
+CPT,Camden Property Trust,1700,https://logo.clearbit.com/camdenliving.com,36,32
+BKR,Baker Hughes Company,55000,https://logo.clearbit.com/bakerhughes.com,44,32
+CTRA,Coterra Energy Inc.,936,https://logo.clearbit.com/coterra.com,30,32
+EOG,"EOG Resources, Inc.",2800,https://logo.clearbit.com/eogresources.com,30,32
+HAL,Halliburton Company,40000,https://logo.clearbit.com/halliburton.com,44,32
+HPE,Hewlett Packard Enterprise Comp,60400,https://logo.clearbit.com/hpe.com,61,32
+APD,"Air Products and Chemicals, Inc",20000,https://logo.clearbit.com/airproducts.com,20,33
+APH,Amphenol Corporation,90000,https://logo.clearbit.com/amphenol.com,31,34
+CRM,"Salesforce, Inc.",73541,https://logo.clearbit.com/salesforce.com,13,72
+FRC,FIRST REPUBLIC BANK,6295,https://logo.clearbit.com/firstrepublic.com,53,72
+ARE,Alexandria Real Estate Equities,559,https://logo.clearbit.com/are.com,33,35
+ATO,Atmos Energy Corporation,4684,https://logo.clearbit.com/atmosenergy.com,34,36
+CBRE,CBRE Group Inc,105000,https://logo.clearbit.com/cbre.com,49,36
+CMA,Comerica Incorporated,7484,https://logo.clearbit.com/comerica.com,53,36
+CPRT,"Copart, Inc.",8600,https://logo.clearbit.com/copart.com,60,36
+ATVI,"Activision Blizzard, Inc",9800,https://logo.clearbit.com/activisionblizzard.com,35,37
+CMS,CMS Energy Corporation,8504,https://logo.clearbit.com/cmsenergy.com,14,68
+AVY,Avery Dennison Corporation,36000,https://logo.clearbit.com/averydennison.com,37,38
+AWK,"American Water Works Company, I",6400,https://logo.clearbit.com/amwater.com,38,39
+CPB,Campbell Soup Company,14100,https://logo.clearbit.com/campbellsoupcompany.com,45,39
+BALL,Ball Corporation,24300,https://logo.clearbit.com/ball.com,24,41
+BAX,Baxter International Inc.,60000,https://logo.clearbit.com/baxter.com,42,42
+CAT,"Caterpillar, Inc.",107700,https://logo.clearbit.com/caterpillar.com,47,42
+CF,"CF Industries Holdings, Inc.",2970,https://logo.clearbit.com/cfindustries.com,52,42
+FBHS,"Fortune Brands Home & Security,",28000,https://logo.clearbit.com/fbhs.com,74,42
+BDX,"Becton, Dickinson and Company",75000,https://logo.clearbit.com/bd.com,42,44
+BEN,"Franklin Resources, Inc.",10400,https://logo.clearbit.com/franklinresources.com,26,45
+ESS,"Essex Property Trust, Inc.",1739,https://logo.clearbit.com/essexapartmenthomes.com,36,45
+BRO,"Brown & Brown, Inc.",12023,https://logo.clearbit.com/bbinsurance.com,19,49
+BKNG,Booking Holdings Inc. Common St,20097,https://logo.clearbit.com/bookingholdings.com,43,47
+FDS,FactSet Research Systems Inc.,10784,https://logo.clearbit.com/factset.com,48,47
+CINF,Cincinnati Financial Corporatio,5166,https://logo.clearbit.com/cinfin.com,21,63
+BWA,BorgWarner Inc.,49300,https://logo.clearbit.com/borgwarner.com,32,51
+CARR,Carrier Global Corporation,58000,https://logo.clearbit.com/corporate.carrier.com,46,53
+CCL,Carnival Corporation,40000,https://logo.clearbit.com/carnivalcorp.com,43,54
+CE,Celanese Corporation Celanese C,8500,https://logo.clearbit.com/celanese.com,50,56
+CEG,Constellation Energy Corporatio,11696,https://logo.clearbit.com/constellationenergy.com,51,57
+CMI,Cummins Inc.,59900,https://logo.clearbit.com/cummins.com,25,67
+CFG,"Citizens Financial Group, Inc.",17463,https://logo.clearbit.com/citizensbank.com,53,58
+CHD,"Church & Dwight Company, Inc.",5100,https://logo.clearbit.com/churchdwight.com,54,59
+CHRW,"C.H. Robinson Worldwide, Inc.",17258,https://logo.clearbit.com/chrobinson.com,55,60
+CHTR,"Charter Communications, Inc.",93700,https://logo.clearbit.com/corporate.charter.com,56,61
+CI,Cigna Corporation,72226,https://logo.clearbit.com/cigna.com,57,62
+CLX,Clorox Company (The),9000,https://logo.clearbit.com/thecloroxcompany.com,54,64
+CMCSA,Comcast Corporation,189000,https://logo.clearbit.com/corporate.comcast.com,56,65
+FMC,FMC Corporation,6400,https://logo.clearbit.com/fmc.com,52,65
+CMG,"Chipotle Mexican Grill, Inc.",100000,https://logo.clearbit.com/chipotle.com,58,66
+COF,Capital One Financial Corporati,51500,https://logo.clearbit.com/capitalone.com,39,69
+HLT,Hilton Worldwide Holdings Inc.,142000,https://logo.clearbit.com/hilton.com,83,69
+COO,"The Cooper Companies, Inc.",12000,https://logo.clearbit.com/coopercos.com,42,70
+CVX,Chevron Corporation,42595,https://logo.clearbit.com/chevron.com,65,70
+COST,Costco Wholesale Corporation,288000,https://logo.clearbit.com/costco.com,59,71
+CSX,CSX Corporation,21000,https://logo.clearbit.com/csx.com,62,73
+FIS,Fidelity National Information S,65000,https://logo.clearbit.com/fisglobal.com,8,73
+CTAS,Cintas Corporation,40000,https://logo.clearbit.com/cintas.com,63,74
+FITB,Fifth Third Bancorp,19247,https://logo.clearbit.com/53.com,53,74
+CTLT,"Catalent, Inc.",17300,https://logo.clearbit.com/catalent.com,64,75
+CTSH,Cognizant Technology Solutions,330600,https://logo.clearbit.com/cognizant.com,8,76
+CTVA,"Corteva, Inc.",21000,https://logo.clearbit.com/corteva.com,52,77
+DRE,Duke Realty Corporation,340,https://logo.clearbit.com/dukerealty.com,68,77
+CTXS,"Citrix Systems, Inc.",,https://logo.clearbit.com/citrix.com,13,78
+CVS,CVS Health Corporation,216000,https://logo.clearbit.com/cvshealth.com,57,79
+CZR,"Caesars Entertainment, Inc.",49000,https://logo.clearbit.com/caesars.com,66,80
+D,"Dominion Energy, Inc.",17100,https://logo.clearbit.com/dominionenergy.com,14,81
+DAL,"Delta Air Lines, Inc.",83000,https://logo.clearbit.com/delta.com,2,82
+EFX,"Equifax, Inc.",13000,https://logo.clearbit.com/equifax.com,70,82
+FLT,"FleetCor Technologies, Inc.",9700,https://logo.clearbit.com/fleetcor.com,9,82
+GPC,Genuine Parts Company,52000,https://logo.clearbit.com/genpt.com,3,82
+GPN,Global Payments Inc.,25000,https://logo.clearbit.com/globalpaymentsinc.com,63,82
+HD,"Home Depot, Inc. (The)",490600,https://logo.clearbit.com/homedepot.com,82,82
+ICE,Intercontinental Exchange Inc.,8858,https://logo.clearbit.com/ice.com,48,82
+DD,"DuPont de Nemours, Inc.",28000,https://logo.clearbit.com/dupont.com,20,83
+INCY,Incyte Corporation,2094,https://logo.clearbit.com/incyte.com,87,83
+DE,Deere & Company,75550,https://logo.clearbit.com/deere.com,47,84
+DFS,Discover Financial Services,16700,https://logo.clearbit.com/discover.com,39,85
+DG,Dollar General Corporation,163000,https://logo.clearbit.com/dollargeneral.com,59,86
+DGX,Quest Diagnostics Incorporated,50000,https://logo.clearbit.com/questdiagnostics.com,1,87
+DHI,"D.R. Horton, Inc.",11788,https://logo.clearbit.com/drhorton.com,67,88
+DHR,Danaher Corporation,78000,https://logo.clearbit.com/danaher.com,1,89
+DIS,Walt Disney Company (The),152000,https://logo.clearbit.com/thewaltdisneycompany.com,56,90
+DISH,DISH Network Corporation,14500,https://logo.clearbit.com/dish.com,56,91
+DLR,"Digital Realty Trust, Inc.",3030,https://logo.clearbit.com/digitalrealty.com,33,92
+DLTR,"Dollar Tree, Inc.",61886,https://logo.clearbit.com/dollartree.com,59,93
+DOV,Dover Corporation,25000,https://logo.clearbit.com/dovercorporation.com,25,94
+DOW,Dow Inc.,35700,https://logo.clearbit.com/dow.com,50,95
+DPZ,Domino's Pizza Inc,7400,https://logo.clearbit.com/dominos.com,58,96
+DRI,"Darden Restaurants, Inc.",156883,https://logo.clearbit.com/darden.com,58,97
+DTE,DTE Energy Company,10400,https://logo.clearbit.com/newlook.dteenergy.com,14,98
+GM,General Motors Company,157000,https://logo.clearbit.com/gm.com,72,98
+DVA,DaVita Inc.,69000,https://logo.clearbit.com/davita.com,69,99
+DVN,Devon Energy Corporation,1600,https://logo.clearbit.com/devonenergy.com,30,100
+DXC,DXC Technology Company,134000,https://logo.clearbit.com/dxc.technology,8,101
+DXCM,"DexCom, Inc.",6300,https://logo.clearbit.com/dexcom.com,7,102
+ILMN,"Illumina, Inc.",9800,https://logo.clearbit.com/illumina.com,1,102
+EA,Electronic Arts Inc.,11000,https://logo.clearbit.com/ea.com,35,103
+EQIX,"Equinix, Inc.",11124,https://logo.clearbit.com/equinix.com,27,103
+ECL,Ecolab Inc.,47000,https://logo.clearbit.com/ecolab.com,20,104
+EIX,Edison International,13003,https://logo.clearbit.com/edison.com,14,105
+EMN,Eastman Chemical Company,14000,https://logo.clearbit.com/eastman.com,50,106
+ENPH,"Enphase Energy, Inc.",2260,https://logo.clearbit.com/enphase.com,71,107
+EPAM,"EPAM Systems, Inc.",58824,https://logo.clearbit.com/epam.com,8,108
+ES,Eversource Energy (D/B/A),9227,https://logo.clearbit.com/eversource.com,14,109
+ETR,Entergy Corporation,12500,https://logo.clearbit.com/entergy.com,14,110
+ETSY,"Etsy, Inc.",2402,https://logo.clearbit.com/etsy.com,28,111
+EVRG,"Evergy, Inc.",4930,https://logo.clearbit.com/evergyinc.com,14,112
+EW,Edwards Lifesciences Corporatio,15700,https://logo.clearbit.com/edwards.com,7,113
+BF.B,,,,,
+BRK.B,,,,,
+ELV,"Elevance Health, Inc.",,,,
+EXR,Extra Space Storage Inc,4309,https://logo.clearbit.com/extraspace.com,68,114
+F,Ford Motor Company,183000,https://logo.clearbit.com/ford.com,72,115
+FANG,"Diamondback Energy, Inc. - Comm",870,https://logo.clearbit.com/diamondbackenergy.com,30,116
+FAST,Fastenal Company,18958,https://logo.clearbit.com/fastenal.com,73,117
+FCX,"Freeport-McMoRan, Inc.",24700,https://logo.clearbit.com/fcx.com,75,118
+FE,FirstEnergy Corp.,12395,https://logo.clearbit.com/firstenergycorp.com,14,119
+FISV,"Fiserv, Inc.",44000,https://logo.clearbit.com/fiserv.com,8,120
+FRT,Federal Realty Investment Trust,310,https://logo.clearbit.com/federalrealty.com,77,121
+FTNT,"Fortinet, Inc.",10195,https://logo.clearbit.com/fortinet.com,9,122
+FTV,Fortive Corporation,18000,https://logo.clearbit.com/fortive.com,78,123
+GD,General Dynamics Corporation,103100,https://logo.clearbit.com/gd.com,40,124
+GILD,"Gilead Sciences, Inc.",14400,https://logo.clearbit.com/gilead.com,5,125
+GL,Globe Life Inc.,3222,https://logo.clearbit.com/globelifeinsurance.com,16,126
+GLW,Corning Incorporated,61200,https://logo.clearbit.com/corning.com,31,127
+GNRC,Generac Holdlings Inc.,8955,https://logo.clearbit.com/generac.com,25,128
+GOOG,Alphabet Inc.,163906,https://logo.clearbit.com/abc.xyz,79,129
+GOOGL,Alphabet Inc.,163906,https://logo.clearbit.com/abc.xyz,79,129
+INTU,Intuit Inc.,13500,https://logo.clearbit.com/intuit.com,13,129
+GRMN,Garmin Ltd.,18700,https://logo.clearbit.com/garmin.com,78,130
+GWW,"W.W. Grainger, Inc.",22700,https://logo.clearbit.com/grainger.com,73,131
+HAS,"Hasbro, Inc.",6640,https://logo.clearbit.com/hasbro.com,81,132
+HCA,"HCA Healthcare, Inc.",204000,https://logo.clearbit.com/hcahealthcare.com,69,133
+HIG,Hartford Financial Services Gro,18100,https://logo.clearbit.com/thehartford.com,17,134
+HII,"Huntington Ingalls Industries,",44000,https://logo.clearbit.com/huntingtoningalls.com,40,135
+HPQ,HP Inc.,51000,https://logo.clearbit.com/hp.com,29,136
+HRL,Hormel Foods Corporation,20000,https://logo.clearbit.com/hormelfoods.com,45,137
+HSIC,"Henry Schein, Inc.",21600,https://logo.clearbit.com/henryschein.com,6,138
+HST,Host Hotels,160,https://logo.clearbit.com/hosthotels.com,85,139
+HSY,The Hershey Company,16620,https://logo.clearbit.com/thehersheycompany.com,86,140
+HUM,Humana Inc.,95500,https://logo.clearbit.com/humana.com,57,141
+HWM,Howmet Aerospace Inc.,19900,https://logo.clearbit.com/howmet.com,25,142
+IBM,International Business Machines,282100,https://logo.clearbit.com/ibm.com,8,143
+IDXX,"IDEXX Laboratories, Inc.",10350,https://logo.clearbit.com/idexx.com,1,144
+IQV,"IQVIA Holdings, Inc.",82000,https://logo.clearbit.com/iqvia.com,1,145
+IR,Ingersoll Rand Inc.,16000,https://logo.clearbit.com/irco.com,25,146
+IRM,Iron Mountain Incorporated (Del,25000,https://logo.clearbit.com/ironmountain.com,27,29
+ISRG,"Intuitive Surgical, Inc.",9793,https://logo.clearbit.com/intuitive.com,42,122
+IT,"Gartner, Inc.",16600,https://logo.clearbit.com/gartner.com,8,61
+ITW,Illinois Tool Works Inc.,45000,https://logo.clearbit.com/itw.com,25,147
+IVZ,Invesco Ltd,8549,https://logo.clearbit.com/invesco.com,26,82
+J,Jacobs Engineering Group Inc.,52000,https://logo.clearbit.com/jacobs.com,89,36
+JBHT,"J.B. Hunt Transport Services, I",33045,https://logo.clearbit.com/jbhunt.com,55,148
+JCI,Johnson Controls International,101000,https://logo.clearbit.com/johnsoncontrols.com,89,149
+JKHY,"Jack Henry & Associates, Inc.",6714,https://logo.clearbit.com/jackhenry.com,8,150
+JNJ,Johnson & Johnson,144000,https://logo.clearbit.com/jnj.com,5,151
+JNPR,"Juniper Networks, Inc.",10385,https://logo.clearbit.com/juniper.net,61,122
+JPM,JP Morgan Chase & Co.,273948,https://logo.clearbit.com/jpmorganchase.com,41,18
+K,Kellogg Company,31000,https://logo.clearbit.com/kelloggcompany.com,45,152
+KDP,Keurig Dr Pepper Inc.,27000,https://logo.clearbit.com/keurigdrpepper.com,90,153
+KEY,KeyCorp,17110,https://logo.clearbit.com/key.com,53,154
+KEYS,Keysight Technologies Inc.,14300,https://logo.clearbit.com/keysight.com,78,155
+KHC,The Kraft Heinz Company,36000,https://logo.clearbit.com/kraftheinzcompany.com,45,142
+KIM,Kimco Realty Corporation,606,https://logo.clearbit.com/kimcorealty.com,77,156
+KLAC,KLA Corporation,11300,https://logo.clearbit.com/kla.com,23,157
+KMB,Kimberly-Clark Corporation,45000,https://logo.clearbit.com/kimberly-clark.com,54,36
+KMI,"Kinder Morgan, Inc.",10529,https://logo.clearbit.com/kindermorgan.com,91,32
+KMX,CarMax Inc,32647,https://logo.clearbit.com/carmax.com,60,81
+KO,Coca-Cola Company (The),79000,https://logo.clearbit.com/coca-colacompany.com,90,82
+KR,Kroger Company (The),420000,https://logo.clearbit.com/thekrogerco.com,92,74
+L,Loews Corporation,10340,https://logo.clearbit.com/loews.com,21,18
+LDOS,"Leidos Holdings, Inc.",43000,https://logo.clearbit.com/leidos.com,8,124
+LEN,Lennar Corporation,10753,https://logo.clearbit.com/lennar.com,67,54
+LH,Laboratory Corporation of Ameri,75000,https://logo.clearbit.com/labcorp.com,1,158
+LHX,"L3Harris Technologies, Inc.",47000,https://logo.clearbit.com/l3harris.com,40,159
+LIN,Linde plc,72327,https://logo.clearbit.com/linde.com,20,160
+LKQ,LKQ Corporation,46000,https://logo.clearbit.com/lkqcorp.com,32,11
+LLY,Eli Lilly and Company,35000,https://logo.clearbit.com/lilly.com,5,77
+LMT,Lockheed Martin Corporation,114000,https://logo.clearbit.com/lockheedmartin.com,40,139
+LNC,Lincoln National Corporation,10848,https://logo.clearbit.com/lfg.com,16,161
+LNT,Alliant Energy Corporation,3313,https://logo.clearbit.com/alliantenergy.com,14,162
+LOW,"Lowe's Companies, Inc.",200000,https://logo.clearbit.com/lowes.com,82,163
+LRCX,Lam Research Corporation,16900,https://logo.clearbit.com/lamresearch.com,23,107
+LUMN,"Lumen Technologies, Inc.",36000,https://logo.clearbit.com/lumen.com,93,164
+LUV,Southwest Airlines Company,58865,https://logo.clearbit.com/southwest.com,2,36
+LVS,Las Vegas Sands Corp.,44500,https://logo.clearbit.com/sands.com,66,165
+LW,"Lamb Weston Holdings, Inc.",7800,https://logo.clearbit.com/lambweston.com,45,166
+LYB,LyondellBasell Industries NV,19100,https://logo.clearbit.com/lyondellbasell.com,20,32
+LYV,"Live Nation Entertainment, Inc.",10200,https://logo.clearbit.com/livenationentertainment.com,56,167
+MA,Mastercard Incorporated,24000,https://logo.clearbit.com/mastercard.com,39,168
+MAA,Mid-America Apartment Communiti,2429,https://logo.clearbit.com/maac.com,36,169
+MAR,Marriott International,120000,https://logo.clearbit.com/marriott.com,83,139
+MAS,Masco Corporation,20000,https://logo.clearbit.com/masco.com,46,170
+MCD,McDonald's Corporation,100000,https://logo.clearbit.com/corporate.mcdonalds.com,58,11
+MCHP,Microchip Technology Incorporat,19500,https://logo.clearbit.com/microchip.com,10,171
+MCK,McKesson Corporation,59000,https://logo.clearbit.com/mckesson.com,6,56
+MCO,Moody's Corporation,13460,https://logo.clearbit.com/moodys.com,48,18
+MDLZ,"Mondelez International, Inc.",79000,https://logo.clearbit.com/mondelezinternational.com,86,11
+MDT,Medtronic plc.,90000,https://logo.clearbit.com/medtronic.com,7,8
+MET,"MetLife, Inc.",,https://logo.clearbit.com/metlife.com,16,18
+META,"Meta Platforms, Inc.",,,,
+MGM,MGM Resorts International,52000,https://logo.clearbit.com/mgmresorts.com,66,165
+MHK,"Mohawk Industries, Inc.",43000,https://logo.clearbit.com/mohawkind.com,74,172
+MKC,"McCormick & Company, Incorporat",14000,https://logo.clearbit.com/mccormickcorporation.com,45,173
+MKTX,"MarketAxess Holdings, Inc.",689,https://logo.clearbit.com/marketaxess.com,80,18
+MLM,"Martin Marietta Materials, Inc.",10000,https://logo.clearbit.com/martinmarietta.com,94,3
+MMC,"Marsh & McLennan Companies, Inc",83000,https://logo.clearbit.com/mmc.com,19,18
+MMM,3M Company,95000,https://logo.clearbit.com/3m.com,84,104
+MNST,Monster Beverage Corporation,3458,https://logo.clearbit.com/monsterbevcorp.com,90,174
+MO,"Altria Group, Inc.",6000,https://logo.clearbit.com/altria.com,95,81
+MOH,Molina Healthcare Inc,14000,https://logo.clearbit.com/molinahealthcare.com,57,175
+MOS,Mosaic Company (The),12525,https://logo.clearbit.com/mosaicco.com,52,176
+MPC,Marathon Petroleum Corporation,17700,https://logo.clearbit.com/marathonpetroleum.com,96,177
+MPWR,"Monolithic Power Systems, Inc.",2773,https://logo.clearbit.com/monolithicpower.com,10,178
+MRK,"Merck & Company, Inc.",67000,https://logo.clearbit.com/merck.com,5,179
+MRNA,"Moderna, Inc.",2700,https://logo.clearbit.com/modernatx.com,87,20
+MRO,Marathon Oil Corporation,1531,https://logo.clearbit.com/marathonoil.com,30,32
+MS,Morgan Stanley,76541,https://logo.clearbit.com/morganstanley.com,80,18
+MSCI,MSCI Inc,4361,https://logo.clearbit.com/msci.com,48,18
+MSFT,Microsoft Corporation,181000,https://logo.clearbit.com/microsoft.com,9,180
+MSI,"Motorola Solutions, Inc.",18700,https://logo.clearbit.com/motorolasolutions.com,61,11
+MTB,M&T Bank Corporation,22000,https://logo.clearbit.com/www3.mtb.com,53,181
+MTCH,"Match Group, Inc.",2500,https://logo.clearbit.com/mtch.com,79,36
+MTD,"Mettler-Toledo International, I",15600,https://logo.clearbit.com/mt.com,1,15
+MU,"Micron Technology, Inc.",44000,https://logo.clearbit.com/micron.com,10,182
+NCLH,Norwegian Cruise Line Holdings,34700,https://logo.clearbit.com/nclhltd.com,43,54
+NDAQ,"Nasdaq, Inc.",5814,https://logo.clearbit.com/nasdaq.com,48,18
+NDSN,Nordson Corporation,7100,https://logo.clearbit.com/nordson.com,25,183
+NEE,"NextEra Energy, Inc.",15000,https://logo.clearbit.com/nexteraenergy.com,14,184
+NEM,Newmont Corporation,14400,https://logo.clearbit.com/newmont.com,97,99
+NFLX,"Netflix, Inc.",11300,https://logo.clearbit.com/netflix.com,56,185
+NI,NiSource Inc,7272,https://logo.clearbit.com/nisource.com,34,186
+NKE,"Nike, Inc.",73300,https://logo.clearbit.com/nike.com,98,187
+NLOK,NortonLifeLock Inc.,2800,https://logo.clearbit.com/nortonLifeLock.com,9,22
+NLSN,Nielsen N.V.,14000,https://logo.clearbit.com/nielsen.com,70,18
+NOC,Northrop Grumman Corporation,90000,https://logo.clearbit.com/northropgrumman.com,40,188
+NOW,"ServiceNow, Inc.",16881,https://logo.clearbit.com/servicenow.com,13,1
+NRG,"NRG Energy, Inc.",6635,https://logo.clearbit.com/nrg.com,99,32
+NSC,Norfolk Southern Corporation,18100,https://logo.clearbit.com/norfolksouthern.com,62,82
+NTAP,"NetApp, Inc.",11000,https://logo.clearbit.com/netapp.com,29,9
+NTRS,Northern Trust Corporation,21700,https://logo.clearbit.com/northerntrust.com,26,11
+NUE,Nucor Corporation,28800,https://logo.clearbit.com/nucor.com,100,21
+NVDA,NVIDIA Corporation,22473,https://logo.clearbit.com/nvidia.com,10,1
+NVR,"NVR, Inc.",6600,https://logo.clearbit.com/nvrinc.com,67,124
+NWL,Newell Brands Inc.,32000,https://logo.clearbit.com/newellbrands.com,54,82
+NWS,News Corporation,24000,https://logo.clearbit.com/newscorp.com,76,18
+NWSA,News Corporation,24000,https://logo.clearbit.com/newscorp.com,76,18
+NXPI,NXP Semiconductors N.V.,31000,https://logo.clearbit.com/nxp.com,10,189
+O,Realty Income Corporation,367,https://logo.clearbit.com/realtyincome.com,77,102
+ODFL,"Old Dominion Freight Line, Inc.",24277,https://logo.clearbit.com/odfl.com,101,190
+OGN,Organon & Co.,9300,https://logo.clearbit.com/organon.com,5,191
+OKE,"ONEOK, Inc.",2847,https://logo.clearbit.com/oneok.com,91,192
+OMC,Omnicom Group Inc.,71700,https://logo.clearbit.com/omnicomgroup.com,88,18
+ON,ON Semiconductor Corporation,30000,https://logo.clearbit.com/onsemi.com,10,118
+ORCL,Oracle Corporation,132000,https://logo.clearbit.com/oracle.com,9,92
+ORLY,"O'Reilly Automotive, Inc.",82516,https://logo.clearbit.com/oreillyauto.com,3,193
+OTIS,Otis Worldwide Corporation,70000,https://logo.clearbit.com/otis.com,25,194
+OXY,Occidental Petroleum Corporatio,11678,https://logo.clearbit.com/oxy.com,30,32
+PARA,Paramount Global,22965,https://logo.clearbit.com/paramount.com,56,18
+PAYC,"Paycom Software, Inc.",5385,https://logo.clearbit.com/paycom.com,13,100
+PAYX,"Paychex, Inc.",15000,https://logo.clearbit.com/paychex.com,12,195
+PCAR,PACCAR Inc.,28500,https://logo.clearbit.com/paccar.com,47,196
+PEAK,"Healthpeak Properties, Inc.",196,https://logo.clearbit.com/healthpeak.com,102,99
+PEG,Public Service Enterprise Group,,,,
+PENN,"Penn National Gaming, Inc.",21973,https://logo.clearbit.com/pngaming.com,66,197
+PEP,"Pepsico, Inc.",309000,https://logo.clearbit.com/pepsico.com,90,168
+PFE,"Pfizer, Inc.",79000,https://logo.clearbit.com/pfizer.com,5,18
+PFG,Principal Financial Group Inc,18600,https://logo.clearbit.com/principal.com,17,198
+PG,Procter & Gamble Company (The),101000,https://logo.clearbit.com/pginvestor.com,54,74
+PGR,Progressive Corporation (The),49077,https://logo.clearbit.com/progressive.com,21,199
+PH,Parker-Hannifin Corporation,54640,https://logo.clearbit.com/parker.com,25,154
+PHM,"PulteGroup, Inc.",6182,https://logo.clearbit.com/pultegroup.com,67,82
+PKG,Packaging Corporation of Americ,15200,https://logo.clearbit.com/packagingcorp.com,24,131
+PKI,"PerkinElmer, Inc.",16700,https://logo.clearbit.com/perkinelmer.com,1,200
+PLD,"Prologis, Inc.",2053,https://logo.clearbit.com/prologis.com,68,72
+PM,Philip Morris International Inc,69600,https://logo.clearbit.com/pmi.com,95,18
+PNC,"PNC Financial Services Group, I",57668,https://logo.clearbit.com/pnc.com,53,142
+PNR,Pentair plc.,11250,https://logo.clearbit.com/pentair.com,25,201
+PNW,Pinnacle West Capital Corporati,5872,https://logo.clearbit.com/pinnaclewest.com,14,118
+POOL,Pool Corporation,5500,https://logo.clearbit.com/poolcorp.com,81,202
+PPG,"PPG Industries, Inc.",49300,https://logo.clearbit.com/ppg.com,20,142
+PPL,PPL Corporation,5607,https://logo.clearbit.com/pplweb.com,14,33
+PRU,"Prudential Financial, Inc.",40916,https://logo.clearbit.com/prudential.com,16,203
+PSA,Public Storage,5800,https://logo.clearbit.com/publicstorage.com,68,38
+PSX,Phillips 66,14000,https://logo.clearbit.com/phillips66.com,96,32
+PTC,PTC Inc.,6709,https://logo.clearbit.com/ptc.com,13,29
+PVH,PVH Corp.,19000,https://logo.clearbit.com/pvh.com,103,18
+PWR,"Quanta Services, Inc.",43700,https://logo.clearbit.com/quantaservices.com,89,32
+PXD,Pioneer Natural Resources Compa,1932,https://logo.clearbit.com/pxd.com,30,56
+PYPL,"PayPal Holdings, Inc.",30900,https://logo.clearbit.com/paypal.com,39,9
+QCOM,QUALCOMM Incorporated,45000,https://logo.clearbit.com/qualcomm.com,10,102
+QRVO,"Qorvo, Inc.",8400,https://logo.clearbit.com/qorvo.com,10,204
+RCL,D/B/A Royal Caribbean Cruises L,84900,https://logo.clearbit.com/rclinvestor.com,43,54
+RE,"Everest Re Group, Ltd.",1947,https://logo.clearbit.com/everestre.com,104,205
+REG,Regency Centers Corporation,432,https://logo.clearbit.com/regencycenters.com,77,73
+REGN,"Regeneron Pharmaceuticals, Inc.",10368,https://logo.clearbit.com/regeneron.com,87,206
+RF,Regions Financial Corporation,19723,https://logo.clearbit.com/regions.com,53,207
+RHI,Robert Half International Inc.,14600,https://logo.clearbit.com/roberthalf.com,12,208
+RJF,"Raymond James Financial, Inc.",15000,https://logo.clearbit.com/raymondjames.com,80,209
+RL,Ralph Lauren Corporation,12100,https://logo.clearbit.com/ralphlauren.com,103,18
+RMD,ResMed Inc.,7970,https://logo.clearbit.com/resmed.com,42,102
+ROK,"Rockwell Automation, Inc.",24500,https://logo.clearbit.com/rockwellautomation.com,25,31
+ROL,"Rollins, Inc.",16482,https://logo.clearbit.com/rollins.com,105,82
+ROP,"Roper Technologies, Inc.",19300,https://logo.clearbit.com/ropertech.com,25,210
+ROST,"Ross Stores, Inc.",100000,https://logo.clearbit.com/rossstores.com,106,211
+RSG,"Republic Services, Inc.",35000,https://logo.clearbit.com/republicservices.com,107,118
+RTX,Raytheon Technologies Corporati,174000,https://logo.clearbit.com/rtx.com,40,200
+SBAC,SBA Communications Corporation,1596,https://logo.clearbit.com/sbasite.com,27,212
+SBNY,Signature Bank,1854,https://logo.clearbit.com/signatureny.com,53,18
+SBUX,Starbucks Corporation,383000,https://logo.clearbit.com/starbucks.com,58,23
+SCHW,Charles Schwab Corporation (The,,,,
+SEDG,"SolarEdge Technologies, Inc.",3964,https://logo.clearbit.com/solaredge.com,71,213
+SEE,Sealed Air Corporation,16500,https://logo.clearbit.com/sealedair.com,24,21
+SHW,Sherwin-Williams Company (The),61000,https://logo.clearbit.com/sherwin-williams.com,20,154
+SIVB,SVB Financial Group,7149,https://logo.clearbit.com/svb.com,53,1
+SJM,J.M. Smucker Company (The) New,7100,https://logo.clearbit.com/jmsmucker.com,45,214
+SLB,Schlumberger N.V.,92000,https://logo.clearbit.com/slb.com,44,32
+SNA,Snap-On Incorporated,12800,https://logo.clearbit.com/snapon.com,108,215
+SNPS,"Synopsys, Inc.",16361,https://logo.clearbit.com/synopsys.com,9,129
+SO,Southern Company (The),27027,https://logo.clearbit.com/southerncompany.com,14,82
+SPG,"Simon Property Group, Inc.",2400,https://logo.clearbit.com/simon.com,77,77
+SPGI,S&P Global Inc.,22850,https://logo.clearbit.com/spglobal.com,48,18
+SRE,DBA Sempra,15390,https://logo.clearbit.com/sempra.com,15,102
+STE,STERIS plc (Ireland),13000,https://logo.clearbit.com/steris.com,7,8
+STT,State Street Corporation,39335,https://logo.clearbit.com/statestreet.com,26,29
+STX,Seagate Technology Holdings PLC,40000,https://logo.clearbit.com/seagate.com,29,8
+STZ,"Constellation Brands, Inc.",10000,https://logo.clearbit.com/cbrands.com,109,216
+SWK,"Stanley Black & Decker, Inc.",71300,https://logo.clearbit.com/stanleyblackanddecker.com,108,217
+SWKS,"Skyworks Solutions, Inc.",11000,https://logo.clearbit.com/skyworksinc.com,10,113
+SYF,Synchrony Financial,18000,https://logo.clearbit.com/synchrony.com,39,61
+SYK,Stryker Corporation,46000,https://logo.clearbit.com/stryker.com,7,218
+SYY,Sysco Corporation,58000,https://logo.clearbit.com/sysco.com,110,32
+T,AT&T Inc.,203160,https://logo.clearbit.com/att.com,93,36
+TAP,Molson Coors Beverage Company,16300,https://logo.clearbit.com/molsoncoors.com,111,219
+TDG,Transdigm Group Incorporated,13300,https://logo.clearbit.com/transdigm.com,40,154
+TDY,Teledyne Technologies Incorpora,14500,https://logo.clearbit.com/teledyne.com,78,27
+TECH,Bio-Techne Corp,2700,https://logo.clearbit.com/bio-techne.com,87,28
+TEL,TE Connectivity Ltd. New Switze,85000,https://logo.clearbit.com/te.com,31,130
+TER,"Teradyne, Inc.",6000,https://logo.clearbit.com/teradyne.com,23,220
+TFC,Truist Financial Corporation,51169,https://logo.clearbit.com/truist.com,53,21
+TFX,Teleflex Incorporated,14000,https://logo.clearbit.com/teleflex.com,42,221
+TGT,Target Corporation,450000,https://logo.clearbit.com/corporate.target.com,59,28
+TJX,"TJX Companies, Inc. (The)",340000,https://logo.clearbit.com/tjx.com,106,222
+TMO,Thermo Fisher Scientific Inc,130000,https://logo.clearbit.com/thermofisher.com,1,200
+TMUS,"T-Mobile US, Inc.",75000,https://logo.clearbit.com/t-mobile.com,93,196
+TPR,"Tapestry, Inc.",12100,https://logo.clearbit.com/tapestry.com,112,18
+TRMB,Trimble Inc.,11931,https://logo.clearbit.com/trimble.com,78,122
+TROW,"T. Rowe Price Group, Inc.",7529,https://logo.clearbit.com/troweprice.com,26,57
+TRV,"The Travelers Companies, Inc.",30184,https://logo.clearbit.com/travelers.com,21,18
+TSCO,Tractor Supply Company,46000,https://logo.clearbit.com/tractorsupply.com,3,223
+TSLA,"Tesla, Inc.",99290,https://logo.clearbit.com/tesla.com,72,92
+TSN,"Tyson Foods, Inc.",137000,https://logo.clearbit.com/tysonfoods.com,11,224
+TT,Trane Technologies plc,37000,https://logo.clearbit.com/tranetechnologies.com,25,225
+TTWO,"Take-Two Interactive Software,",6495,https://logo.clearbit.com/take2games.com,35,18
+TWTR,"Twitter, Inc.",7500,https://logo.clearbit.com/twitter.com,79,72
+TXN,Texas Instruments Incorporated,31000,https://logo.clearbit.com/ti.com,10,36
+TXT,Textron Inc.,33000,https://logo.clearbit.com/textron.com,40,58
+TYL,"Tyler Technologies, Inc.",6959,https://logo.clearbit.com/tylertech.com,13,226
+UAL,"United Airlines Holdings, Inc.",87400,https://logo.clearbit.com/united.com,2,11
+UDR,"UDR, Inc.",1219,https://logo.clearbit.com/udr.com,36,227
+UHS,"Universal Health Services, Inc.",89000,https://logo.clearbit.com/uhs.com,69,228
+ULTA,"Ulta Beauty, Inc.",16500,https://logo.clearbit.com/ulta.com,3,229
+UNH,UnitedHealth Group Incorporated,350000,https://logo.clearbit.com/unitedhealthgroup.com,57,230
+UNP,Union Pacific Corporation,30189,https://logo.clearbit.com/up.com,62,231
+UPS,"United Parcel Service, Inc.",534000,https://logo.clearbit.com/ups.com,55,82
+URI,"United Rentals, Inc.",20400,https://logo.clearbit.com/unitedrentals.com,113,61
+USB,U.S. Bancorp,70000,https://logo.clearbit.com/usbank.com,53,28
+V,Visa Inc.,21500,https://logo.clearbit.com/usa.visa.com,39,72
+VFC,V.F. Corporation,27200,https://logo.clearbit.com/vfc.com,103,99
+VICI,VICI Properties Inc.,105,https://logo.clearbit.com/viciproperties.com,114,18
+VLO,Valero Energy Corporation,9794,https://logo.clearbit.com/valero.com,96,232
+VMC,Vulcan Materials Company (Holdi,11912,https://logo.clearbit.com/vulcanmaterials.com,94,207
+VNO,Vornado Realty Trust,3224,https://logo.clearbit.com/vno.com,33,18
+VRSK,"Verisk Analytics, Inc.",9367,https://logo.clearbit.com/verisk.com,70,191
+VRSN,"VeriSign, Inc.",902,https://logo.clearbit.com/verisign.com,9,124
+VRTX,Vertex Pharmaceuticals Incorpor,3900,https://logo.clearbit.com/vrtx.com,87,29
+VTR,"Ventas, Inc.",434,https://logo.clearbit.com/ventasreit.com,102,11
+VTRS,Viatris Inc.,37000,https://logo.clearbit.com/viatris.com,64,30
+VZ,Verizon Communications Inc.,118500,https://logo.clearbit.com/verizon.com,93,18
+WAB,Westinghouse Air Brake Technolo,25000,https://logo.clearbit.com/wabteccorp.com,62,142
+WAT,Waters Corporation,7800,https://logo.clearbit.com/waters.com,1,233
+WBA,"Walgreens Boots Alliance, Inc.",315000,https://logo.clearbit.com/walgreensbootsalliance.com,115,42
+WBD,"Warner Bros. Discovery, Inc. -",11000,https://logo.clearbit.com/corporate.discovery.com,56,18
+WDC,Western Digital Corporation,65600,https://logo.clearbit.com/westerndigital.com,29,9
+WEC,"WEC Energy Group, Inc.",6938,https://logo.clearbit.com/wecenergygroup.com,14,31
+WELL,Welltower Inc.,464,https://logo.clearbit.com/welltower.com,102,234
+WFC,Wells Fargo & Company,246577,https://logo.clearbit.com/wellsfargo.com,41,72
+WHR,Whirlpool Corporation,69000,https://logo.clearbit.com/whirlpoolcorp.com,74,235
+WM,"Waste Management, Inc.",48500,https://logo.clearbit.com/wm.com,107,32
+WMB,"Williams Companies, Inc. (The)",4783,https://logo.clearbit.com/williams.com,91,192
+WMT,Walmart Inc.,2300000,https://logo.clearbit.com/stock.walmart.com,59,236
+WRB,W.R. Berkley Corporation,7681,https://logo.clearbit.com/berkley.com,21,237
+WRK,Westrock Company,50000,https://logo.clearbit.com/westrock.com,24,82
+WST,"West Pharmaceutical Services, I",10065,https://logo.clearbit.com/westpharma.com,42,238
+WTW,Willis Towers Watson Public Lim,44000,https://logo.clearbit.com/willistowerswatson.com,19,201
+WY,Weyerhaeuser Company,9200,https://logo.clearbit.com/weyerhaeuser.com,27,23
+WYNN,"Wynn Resorts, Limited",26950,https://logo.clearbit.com/wynnresorts.com,66,165
+XEL,Xcel Energy Inc.,11321,https://logo.clearbit.com/xcelenergy.com,14,28
+XOM,Exxon Mobil Corporation,63000,https://logo.clearbit.com/corporate.exxonmobil.com,65,56
+XRAY,DENTSPLY SIRONA Inc.,15000,https://logo.clearbit.com/dentsplysirona.com,42,21
+XYL,Xylem Inc.,16100,https://logo.clearbit.com/xylem.com,25,239
+YUM,"Yum! Brands, Inc.",36000,https://logo.clearbit.com/yum.com,58,141
+ZBH,"Zimmer Biomet Holdings, Inc.",19500,https://logo.clearbit.com/zimmerbiomet.com,7,240
+ZBRA,Zebra Technologies Corporation,9800,https://logo.clearbit.com/zebra.com,61,241
+ZION,Zions Bancorporation N.A.,9724,https://logo.clearbit.com/zionsbancorporation.com,53,114
+ZTS,Zoetis Inc.,12100,https://logo.clearbit.com/zoetis.com,64,242
