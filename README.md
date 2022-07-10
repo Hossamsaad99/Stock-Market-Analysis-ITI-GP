@@ -79,7 +79,7 @@ Here's Snapshoot of our Sql Query from SSMS.
 
  
  ## Dashboards
-> * S&P 500 
+> * S&P 500 <br />
 Average Volume  - 10 Days top & Worst Close Change  - Performance  - volatility KPIs per secotr <br />
 Here's Snapshoot of our first dashboard from PowerBI.
 ![First dashboard](https://github.com/Hossamsaad99/Stock-Market-Analysis/blob/main/Dashboard/D1.JPG)
@@ -89,12 +89,12 @@ Average Volume  - Historic Data  - Performance  - General Info - Filtration Page
 Here's Snapshoot of our first dashboard from PowerBI.
 ![Second dashboard](https://github.com/Hossamsaad99/Stock-Market-Analysis/blob/main/Dashboard/D2.JPG)
 
-> * Comparison 
+> * Comparison <br />
 Average price per month  - Top 10 loss / gain close change per company  - Company Close price per date <br />
 Here's Snapshoot of our first dashboard from PowerBI.
 ![Third dashboard](https://github.com/Hossamsaad99/Stock-Market-Analysis/blob/main/Dashboard/D3.JPG)
 
-> * Tesla Report 
+> * Tesla Report <br />
 Close price and volume per date  - Stock Performance KPIs  - Tesla Stock Surges - Tesla After Twitter <br />
 Here's Snapshoot of our first dashboard from PowerBI. <br />
 ![Tesla dashboard](https://github.com/Hossamsaad99/Stock-Market-Analysis/blob/main/Dashboard/Tesla.JPG)
