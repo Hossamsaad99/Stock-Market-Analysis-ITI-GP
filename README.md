@@ -3,4 +3,4 @@
 ## Table of contents
 * [General info](#general-info)
 * [Introduction](#Introduction)
-* [Data Collection](#Data Collection)
+* [Data Collection](#Data-Collection)
