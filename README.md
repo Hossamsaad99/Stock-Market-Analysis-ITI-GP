@@ -54,7 +54,7 @@ Extract data using web scraping then imported, integrated and transferred it usi
 We used **galaxy schema** in our model due to its advantages which allowing Dimension Tables to be linked to other Dimension tables, including the Dimension Tables in the first level. This Multidimensional nature makes it easy to implement on complex Relational Database systems, thus resulting in effective Analysis & Reporting processes. <br />
 > * <ins>Dimensional Model</ins> <br />
 Here's our Dimensional Model Screenshot from SSMS.
-![Galaxy Schema](https://github.com/Hossamsaad99/Stock-Market-Analysis/blob/main/Modeling/MS%20Server%20Modeling.JPG "Galaxy Schema")
+![Galaxy Schema](https://github.com/Hossamsaad99/Stock-Market-Analysis-ITI-GP/blob/main/Modeling/Galaxy%20Schema.JPG "Galaxy Schema")
 
 ## Business Queries 
 > * Retrieve Stock performance over7 and 30 days and what are previous and current changes.
