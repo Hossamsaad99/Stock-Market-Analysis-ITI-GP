@@ -26,4 +26,57 @@ About Projects Info
 * Tracking stock market changes.
 
 ## Data Sources
-> * Wikipedia List of S&P 500 companies
+* [Wikipedia List of S&P 500 companies](https://en.wikipedia.org/wiki/List_of_S%26P_500_companies) <br />
+> * <ins>Date of creation</ins>: 4 April 2022 <br />
+> * <ins>Descriptions</ins>: <br />
+The S&P 500 stock market index is maintained by S&P Dow Jones Indices. It comprises 503 common stocks which are issued by 500 large-cap companies traded on American stock exchanges (including the 30 companies that compose the Dow Jones Industrial Average). The index includes about 80 percent of the American equity market by capitalization. It is weighted by free-float market capitalization, so more valuable companies account for relatively more weight in the index. The index constituents and the constituent weights are updated regularly using rules published by S&P Dow Jones Indices. Although called the S&P 500, the index contains 503 stocks because it includes two share classes of stock from 3 of its component companies.<br />
+> * <ins>ETL</ins>: <br />
+web scraping using beautiful soup and request library with python, file type (CSV) <br />
+
+* [Yahoo finance](https://finance.yahoo.com/quote/AAPL/?p=AAPL)
+> * <ins>Date of creation</ins>: 1 July 2018 <br />
+> * <ins>Descriptions</ins>: <br />
+Yahoo Finance used to have their own official API, but this was decommissioned on May 15th 2017, following wide-spread misuse of data.
+These days a range of unofficial APIs and libraries exist to access the same data, including of course yfinance.
+Note you might know of yfinance under it’s old name- fix-yahoo-finance, since it was re-named on May 26th 2019 at the same time that it went over a large overhaul to fix some usability issues.
+To ensure backwards compatibility, fix-yahoo-finance now imports and uses yfinance anyway, but Ran Aroussi still recommends to install and use yfinance directly.
+In this article we will focus mainly on the yfinance library, but we discuss the overall range of options and other alternative providers in more depth in our parent article, Yahoo Finance API – A Complete Guide.<br />
+> * <ins>ETL</ins>: <br />
+Extract data using web scraping then imported, integrated and transferred it using SSMS, then create the model. 
+
+* [Kaggle](https://www.kaggle.com/camnugent/sandp500)
+> * <ins>Date of creation</ins>: 1 June 2018 <br />
+> * <ins>Descriptions</ins>: <br />
+The folder individual stocks 5yr contains files of data for individual stocks, labelled by their stock ticker name. The allstocks5yr.csv contains the same data, presented in a merged .csv file. Depending on the intended use (graphing, modelling, etc.) the user may prefer one of these given formats..<br />
+> * <ins>ETL</ins>: <br />
+Extract data using web scraping then imported, integrated and transferred it using SSMS, then create the model.<br />
+
+## Data Warehouse/Data Model
+> * <ins>Why did we choose “galaxy schema”?</ins> <br />
+We used **galaxy schema** in our model due to its advantages which allowing Dimension Tables to be linked to other Dimension tables, including the Dimension Tables in the first level. This Multidimensional nature makes it easy to implement on complex Relational Database systems, thus resulting in effective Analysis & Reporting processes. <br />
+> * <ins>Dimensional Model</ins> <br />
+Here's our Dimensional Model Screenshot from SSMS.
+![Galaxy Schema](https://github.com/Hossamsaad99/Stock-Market-Analysis/blob/main/Modeling/MS%20Server%20Modeling.JPG "Galaxy Schema")
+
+## Business Queries 
+> * Retrieve Stock performance over7 and 30 days and what are previous and current changes.
+Here's Snapshoot of our Sql Query from SSMS.
+![First Business query](https://github.com/Hossamsaad99/Stock-Market-Analysis/blob/main/Modeling/Business%20Queries/1.JPG)
+
+> * Retrieve top 10 days and worst 10 days’ changes.
+Here's Snapshoot of our Sql Query from SSMS.
+![Second Business query](https://github.com/Hossamsaad99/Stock-Market-Analysis/blob/main/Modeling/Business%20Queries/2.JPG)
+
+> * Retrieve Stock performance over 7 and 30 days And previous and current changes for the symbol.
+Here's Snapshoot of our Sql Query from SSMS.
+![Third Business query](https://github.com/Hossamsaad99/Stock-Market-Analysis/blob/main/Modeling/Business%20Queries/3.JPG)
+
+> * Retrieve volatility KPIS per(years/week) for sectors.
+Here's Snapshoot of our Sql Query from SSMS.
+![Fourth Business query](https://github.com/Hossamsaad99/Stock-Market-Analysis/blob/main/Modeling/Business%20Queries/4.JPG)
+
+> * Calculate weight of each company in the stock market.
+Here's Snapshoot of our Sql Query from SSMS.
+![Fifth Business query](https://github.com/Hossamsaad99/Stock-Market-Analysis/blob/main/Modeling/Business%20Queries/5.JPG)
+
+ 
